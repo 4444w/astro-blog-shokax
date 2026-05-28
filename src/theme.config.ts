@@ -28,10 +28,5 @@ export default defineConfig({
     author: "h4w",
     description: "blog",
   },
-  
-  // 版权配置
-  copyright: {
-    license: "CC-BY-NC-SA-4.0", // 许可证类型
-    show: true, // 是否显示版权声明
-  },
+
 });
