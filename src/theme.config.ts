@@ -8,7 +8,7 @@ export default defineConfig({
   // 首页品牌
   brand: {
     title: "靓仔",
-    subtitle: "你好啊，吊毛",
+    subtitle: "你好啊，叼毛",
     logo: "✨",
   },
 
