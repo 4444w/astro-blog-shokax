@@ -23,5 +23,20 @@ export default defineConfig({
     author: "h4w",
     description: "blog",
   },
+  
+  // 隐藏版权
+  copyright: {
+    license: "CC-BY-NC-SA-4.0",
+    show: false,  // 不显示版权声明
+  },
+  
+  // 年份
+  footer: {
+    since: 2020, // 你的博客始于 2020 年
+	powered: false, // 显示技术声明
+	icp: {
+      enable: false, // 海外部署，不需要备案
+    },
+  },
 
 });
