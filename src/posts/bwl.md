@@ -2,7 +2,7 @@
 title: 备忘录
 date: 2024-03-04
 encrypted: true
-password: 44444
+password: h4444w
 ---
 fofa.info
 ```shell
