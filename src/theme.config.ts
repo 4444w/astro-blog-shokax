@@ -1,7 +1,15 @@
-// cannot use path alias here because unocss can not resolve it
 import { defineConfig } from "./toolkit/themeConfig";
 
 export default defineConfig({
-  siteName: "靓仔", // 网站名称（必填）
-  locale: "zh-CN", // 网站语言（可选）
+  // 基础信息
+  siteName: "靓仔",
+  locale: "zh-CN",
+
+  // 首页品牌
+  brand: {
+    title: "靓仔",
+    subtitle: "你好啊，吊毛",
+    logo: "✨",
+  },
+
 });
