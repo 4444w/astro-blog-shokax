@@ -12,4 +12,15 @@ export default defineConfig({
     logo: "✨",
   },
 
+  // 封面
+  cover: {
+    enableFixedCover: true,
+    fixedCover: "https://file.icve.com.cn/file_doc/640/442/A026EB068D9CF3D4FB790F6252A2B4FC.jpg",
+  },  
+
+  // 侧边栏
+  sidebar: {
+    author: "h4w",
+    description: "blog",
+  },
 });
