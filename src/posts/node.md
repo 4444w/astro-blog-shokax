@@ -1,6 +1,7 @@
 ---
 title: 安装node npm go
 date: 2021/10/8
+tags:
 ---
 
 
