@@ -45,7 +45,7 @@ if (themeConfig.diagnostics?.suppressFsWatcherMaxListenersWarning !== false) {
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://preview.astro.kaitaku.xyz",
+  site: "https://靓仔.eu.org",
   trailingSlash: "always",
   build: {
     format: "directory",

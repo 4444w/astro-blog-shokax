@@ -8,15 +8,9 @@ export default defineConfig({
   // 首页品牌
   brand: {
     title: "靓仔",
-    subtitle: "你好啊，叼毛",
+    subtitle: "=",
     logo: "✨",
   },
-
-  // 封面
-  cover: {
-    enableFixedCover: true,
-    fixedCover: "https://file.icve.com.cn/file_doc/640/442/A026EB068D9CF3D4FB790F6252A2B4FC.jpg",
-  },  
 
   // 侧边栏
   sidebar: {
